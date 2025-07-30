@@ -85,7 +85,4 @@ ezdata 是基于python后端和vue3前端开发的数据处理分析和任务调
 
  
 
- # 前端
-前端代码
-
-[大模型支持的数据分析平台，可私有化部署](http://www.gitpp.com/zhimachat/ezdata_frontend)
+ 
